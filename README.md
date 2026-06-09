@@ -1,16 +1,116 @@
-## Hi there 👋
+# Vinod G M
 
-<!--
-**Vinodgm2106/Vinodgm2106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science | Data Analytics | Machine Learning Enthusiast 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a Data Science graduate passionate about Machine Learning, Artificial Intelligence, and Data Analytics. I enjoy building data-driven solutions, analyzing complex datasets, and developing intelligent applications that solve real-world problems.
+
+* Strong foundation in Python, SQL, Machine Learning, and Data Analytics
+* Skilled in Data Visualization, Dashboard Development, and Business Intelligence
+* Hands-on experience with NLP, Predictive Modeling, and Recommendation Systems
+* Continuously learning emerging technologies in AI and Data Science
+
+---
+
+## Tech Stack
+
+### Languages
+
+Python, SQL
+
+### Data Analytics & Visualization
+
+Power BI, Excel, Power Pivot, Pandas, NumPy, Plotly
+
+### Machine Learning & AI
+
+Scikit-learn, TensorFlow, PyTorch, NLP
+
+### Tools
+
+Git, GitHub, Streamlit, Jupyter Notebook
+
+### Concepts
+
+Machine Learning, Data Analysis, Data Visualization, Statistics, Business Intelligence, NLP
+
+---
+
+## Featured Projects
+
+### 1. AI Diet Recommendation System
+
+**Description:** Developed an intelligent diet recommendation platform that generates personalized meal plans based on user health metrics and nutritional requirements.
+
+#### Key Highlights:
+
+* BMI and calorie-based meal recommendations
+* Nutrition analysis and personalized diet planning
+* Data preprocessing and recommendation logic implementation
+* Interactive Streamlit dashboard for user engagement
+
+**Tech Used:** Python, Machine Learning, Pandas, Streamlit
+
+---
+
+### 2. Emotion Detection using NLP
+
+**Description:** Built a Natural Language Processing application capable of detecting emotions from textual input using Machine Learning techniques.
+
+#### Key Highlights:
+
+* Text preprocessing and feature extraction
+* Emotion classification using NLP models
+* Sentiment and emotion analysis
+* Interactive prediction interface
+
+**Tech Used:** Python, NLP, Scikit-learn, Pandas
+
+---
+
+### 3. Car Sales Analysis Dashboard
+
+**Description:** Performed comprehensive sales analysis to identify customer trends, revenue patterns, and business performance indicators.
+
+#### Key Highlights:
+
+* Interactive Power BI dashboard development
+* KPI tracking and sales performance monitoring
+* Data cleaning and transformation
+* Business insights generation through visual analytics
+
+**Tech Used:** Power BI, Excel, SQL
+
+---
+
+## Experience
+
+### Bharat Electronics Limited (BEL)
+
+* Supporting project activities and gaining hands-on experience in a professional technology environment.
+* Working on data-driven tasks, reporting, analysis, and problem-solving while collaborating with project teams.
+
+### Machine Learning Intern – Runshaw Technology
+
+* Worked on Machine Learning projects involving data preprocessing, model development, and evaluation.
+* Gained practical experience in real-world AI and analytics workflows.
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Vinodgm2106)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinodgm2106)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vinusudeep)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinodgm2002@gmail.com)
+
+---
+
+## Goals
+
+* Build impactful AI and Data Analytics solutions
+* Strengthen expertise in Machine Learning and Data Science
+* Contribute to real-world projects with measurable business impact
