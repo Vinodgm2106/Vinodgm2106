@@ -19,7 +19,7 @@ I am a Data Science graduate passionate about Machine Learning, Artificial Intel
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | Python, SQL |
-| **Data Analytics & Visualization** | Power BI, Excel, Power Pivot, Pandas, NumPy, Plotly |
+| **Data Analytics & Visualization** | Power BI, Tableau, Excel, Power Pivot, Pandas, NumPy, Plotly |
 | **Machine Learning & AI** | Scikit-learn, TensorFlow, PyTorch, NLP |
 | **Tools** | Git, GitHub, Streamlit, Jupyter Notebook |
 | **Concepts** | Machine Learning, Data Analysis, Data Visualization, Statistics, Business Intelligence, NLP |
