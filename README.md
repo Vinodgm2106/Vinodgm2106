@@ -60,21 +60,18 @@ I am a Data Science graduate passionate about Machine Learning, Artificial Intel
 
 ---
 
+### 3. Sentio: Large-Scale Emotion Detection Transformer
 
-
-
-### 3. Emotion Detection using NLP
-
-**Description:** Built a Natural Language Processing application capable of detecting emotions from textual input using Machine Learning techniques.
+**Description:** Sequence classification system detecting 28 fine-grained emotions from text using RoBERTa. Implements a semi-supervised pseudo-labeling pipeline for 1M+ records and an interactive desktop UI.
 
 #### Key Highlights:
 
-* Text preprocessing and feature extraction
-* Emotion classification using NLP models
-* Sentiment and emotion analysis
-* Interactive prediction interface
-
-**Tech Used:** Python, NLP, Scikit-learn, Pandas
+* RoBERTa-base sequence classification utilizing mixed-precision FP16 processing
+* Teacher-Student pseudo-labeling scaling training data from 43k to 1M+ records
+* Interactive Streamlit dashboard with real-time model switching and color-coded analytics
+* Optimized, offline-compatible CLI inference pipeline with GPU acceleration
+  
+**Tech Used:** Python, Machine Learning (RoBERTa, PyTorch, Transformers), Streamlit, Pandas, CUDA
 
 ---
 
