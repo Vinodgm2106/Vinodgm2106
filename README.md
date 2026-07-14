@@ -28,7 +28,24 @@ I am a Data Science graduate passionate about Machine Learning, Artificial Intel
 
 ## Featured Projects
 
-### 1. AI Diet Recommendation System
+### 1. SmartRoad-AI
+
+**Description:** Pavement Defect Detection & Severity Analysis System. Developed an intelligent road condition monitoring and reporting platform that leverages computer vision to automatically detect pavement defects and rank repair priorities.
+
+#### Key Highlights:
+
+* YOLOv8-based batch image and video defect detection 
+* Weighted Pavement Severity Score (RDS) priority algorithm 
+* Interactive satellite maps with color-coded damage pins 
+* Dynamic Streamlit dashboard with chronological trend analytics 
+* Automated PDF and Excel municipal report generation 
+* Database-aware SQL AI Chatbot for text-based survey queries
+  
+**Tech Used:** Python, Machine Learning (YOLOv8, PyTorch, OpenCV), Streamlit, Folium, SQLite, Pandas, FPDF2
+  
+---
+
+### 2. AI Diet Recommendation System
 
 **Description:** Developed an intelligent diet recommendation platform that generates personalized meal plans based on user health metrics and nutritional requirements.
 
@@ -43,22 +60,8 @@ I am a Data Science graduate passionate about Machine Learning, Artificial Intel
 
 ---
 
-### 2. SmartRoad-AI
 
-**Description:** Pavement Defect Detection & Severity Analysis System Description: Developed an intelligent road condition monitoring and reporting platform that leverages computer vision to automatically detect pavement defects and rank repair priorities.
 
-#### Key Highlights:
-
-• YOLOv8-based batch image and video defect detection 
-• Weighted Pavement Severity Score (RDS) priority algorithm 
-• Interactive satellite maps with color-coded damage pins 
-• Dynamic Streamlit dashboard with chronological trend analytics 
-• Automated PDF and Excel municipal report generation 
-• Database-aware SQL AI Chatbot for text-based survey queries 
-
-**Tech Used:** Python, Machine Learning (YOLOv8, PyTorch, OpenCV), Streamlit, Folium, SQLite, Pandas, FPDF2
-
----
 
 ### 3. Emotion Detection using NLP
 
